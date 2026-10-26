@@ -1,8 +1,8 @@
 # Program 2: Student marks and result
 # All data and calculations are inside this file.
 
-student_name = "Ravi"
-marks = [80, 75, 90, 68, 85]
+student_name = "Akhil"
+marks = [90, 95, 98, 98, 100]
 
 total = sum(marks)
 average = total / len(marks)
